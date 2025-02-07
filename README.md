@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Oscar Andersson!
 
-<!--
-**charlesoscar/charlesoscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Consultant @ Logikfabriken  
+👨‍💻 Tech Lead @ Volvo Group, Backstage  
+🍽️ Founder of [Lunchfindr](https://lunchfindr.se)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+🔹 Passionate about developer experience and creating real impact.  
+🔹 Driving change through culture, automation, and leadership to empower teams and simplify complexity.
+
+---
+
+ 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oscar-andersson-0259b2b2/)
+
+---
+
+## 📌 Current Work & Projects
+### 🎯 Enhancing Developer Experience with Backstage
+🔹 Shaping a developer portal that brings everything developers need into a single pane of glass—from APIs and documentation to onboarding and tools—enabling teams to build capabilities and ship faster.
+
+### 🍽️ [Lunchfindr](https://lunchfindr.se)
+🔹 Helping thousands of Swedes discover lunch options effortlessly every day.
+
+_The only way to go fast is to go well._ 🚀
